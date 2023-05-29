@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+}
+
+#ph1, #ph2, #ph3 {
+    height: 240px;
+    width: 240px;
+}
